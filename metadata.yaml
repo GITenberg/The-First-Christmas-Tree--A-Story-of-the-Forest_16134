@@ -1,0 +1,32 @@
+_repo: The-First-Christmas-Tree--A-Story-of-the-Forest_16134
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Van
+    - Dyke, Henry I. Van
+    - Dyke, Henry Jackson Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2005-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+title: 'The First Christmas Tree: A Story of the Forest'
+url: http://www.gutenberg.org/ebooks/16134
